@@ -1,1 +1,1 @@
-# jenkins-common-pipeline
+# jenkins-common-pipeline-library
